@@ -11,6 +11,11 @@ This project generates knowledge graph embeddings for the Gene Ontology (GO) and
 - **Single merged output:** All entity embeddings are saved in `PYRDF2vec.json` as flat lists.
 - **Full reproducibility:** Clear file paths, progress logs, and debugging statements.
 
+## Important Note
+1 : You need to create files 'output.log' which can save output.
+2 : You need to create folder named 'embeddings' which can save the json format outtput file.
+  
+
 ---
 ## Requirements
 
