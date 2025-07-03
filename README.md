@@ -28,4 +28,4 @@ Install all dependencies:
 
 ```bash
 you have to install dependencies for this mannually
-pip install -m (Dependency name)
+python3 -m pip install -m (Dependency name)
